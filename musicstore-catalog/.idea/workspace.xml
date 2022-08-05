@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f295f05-6330-4c88-bde0-3e5cb30cd038" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/MusicStoreCatalogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/controller/AlbumController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/controller/ArtistController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/controller/LabelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/controller/MusicStoreCatalogControllerExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/controller/TrackController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/model/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/model/Artist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/model/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/model/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/repository/AlbumRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/repository/ArtistRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/repository/LabelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trilogyed/musicstorecatalog/repository/TrackRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/trilogyed/musicstorecatalog/MusicStoreCatalogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/trilogyed/musicstorecatalog/controller/AlbumControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/trilogyed/musicstorecatalog/controller/ArtistControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/trilogyed/musicstorecatalog/controller/LabelControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/trilogyed/musicstorecatalog/controller/TrackControllerTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Cqq4iqgBBNlu0SJp7fUqrarTH1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "C:/Users/Rayce/Desktop/Java Projects/Project-2/musicstore-catalog",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rayce\Desktop\Java Projects\Project-2\music-store-catalog\src\test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.trilogyed.musicstorecatalog.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.trilogyed.musicstorecatalog.controller in musicstore-catalog">
+    <configuration name="TrackControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-store-catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.musicstorecatalog.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.musicstorecatalog.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.trilogyed.musicstorecatalog.controller.TrackControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackControllerTest.shouldFailCreateTrackWithInvalidData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-store-catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.musicstorecatalog.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.musicstorecatalog.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.trilogyed.musicstorecatalog.controller.TrackControllerTest" />
+      <option name="METHOD_NAME" value="shouldFailCreateTrackWithInvalidData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackControllerTest.shouldFailGetTrackBadIdReturns404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-store-catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.musicstorecatalog.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.musicstorecatalog.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.trilogyed.musicstorecatalog.controller.TrackControllerTest" />
+      <option name="METHOD_NAME" value="shouldFailGetTrackBadIdReturns404" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.trilogyed.musicstorecatalog.controller in music-store-catalog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-store-catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.musicstorecatalog.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.musicstorecatalog.controller" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.trilogyed.musicstorecatalog.controller in musicstore-catalog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="musicstore-catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trilogyed.musicstorecatalog.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trilogyed.musicstorecatalog.controller" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.trilogyed.musicstorecatalog.controller in musicstore-catalog" />
+        <item itemvalue="JUnit.TrackControllerTest" />
+        <item itemvalue="JUnit.com.trilogyed.musicstorecatalog.controller in music-store-catalog" />
+        <item itemvalue="JUnit.TrackControllerTest.shouldFailCreateTrackWithInvalidData" />
+        <item itemvalue="JUnit.TrackControllerTest.shouldFailGetTrackBadIdReturns404" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f295f05-6330-4c88-bde0-3e5cb30cd038" name="Changes" comment="" />
+      <created>1659540273524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659540273524</updated>
+    </task>
+    <servers />
+  </component>
+</project>
